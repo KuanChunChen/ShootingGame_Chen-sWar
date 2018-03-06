@@ -8,6 +8,5 @@
 
 ### 遊戲畫面:
 
-<img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/001.png" width="25%" height="25%">
-<img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/002.png" width="25%" height="25%">
-<img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/003.png" width="25%" height="25%">
+<img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/004.gif" width="25%" height="25%">
+ 
