@@ -5,7 +5,7 @@
 即可獲得10分</br>
 
 
-<font size="15">遊戲畫面：</font></br>
+### 遊戲畫面:
 
 <img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/001.png" width="30%" height="30%">
 <img src="https://github.com/KuanChunChen/ShootingGame_Chen-sWar/blob/master/photo/002.png" width="30%" height="30%">
